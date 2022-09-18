@@ -14,12 +14,7 @@
 
 :computer: Current Interest - Python, React, Angular, Larvel, Node ,Vue
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/m-saddam-6aba76228/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
-  />
-</a>
+📫 How to reach me: saddy.devs@gmail.com
 
 **Have worked in:**
 <p>
